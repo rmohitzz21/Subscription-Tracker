@@ -11,7 +11,7 @@ if (result.error) {
 }
 
 // Export necessary environment variables
-export const { PORT, NODE_ENV } = process.env;
+export const { PORT, NODE_ENV , DB_URI } = process.env;
 
 // Validate if PORT is available
 if (!PORT) {

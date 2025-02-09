@@ -37,3 +37,9 @@ Find Bugs Early 🚀
 Catches syntax errors and potential issues before running your code.
 
 
+
+<!-- Connect Mongo Db -->
+
+npm install mongodb mongoose
+
+mongodb+srv://rmohit21264:rmohit21264@cluster0.0jejk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
